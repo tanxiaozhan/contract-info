@@ -1,0 +1,5 @@
+行 19: 控件 ComDlg 的类 MSComDlg.CommonDialog 不是一个已加载的控件类。
+行 26: 控件 ImageList1 的类 MSComctlLib.ImageList 不是一个已加载的控件类。
+行 322: 控件 List1 的类 MSComctlLib.ListView 不是一个已加载的控件类。
+行 531: 控件 List1 的类 MSComctlLib.ListView 不是一个已加载的控件类。
+行 1060: 控件 tabOption 的类 MSComctlLib.TabStrip 不是一个已加载的控件类。
